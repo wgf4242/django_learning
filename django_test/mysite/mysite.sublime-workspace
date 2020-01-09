@@ -1,0 +1,1441 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"conte",
+				"context\tget_context_data"
+			],
+			[
+				"Mode",
+				"ModelAdmin\tclass"
+			],
+			[
+				"app",
+				"app_generic_view"
+			],
+			[
+				"success",
+				"success_message\tstatement"
+			],
+			[
+				"tempal",
+				"template"
+			],
+			[
+				"for",
+				"form\tTag"
+			],
+			[
+				"var",
+				"var\tcontext variable (var)"
+			],
+			[
+				"ob",
+				"object\tTag"
+			],
+			[
+				"obj",
+				"object_list"
+			],
+			[
+				"try",
+				"try\tTry/Except/Else"
+			],
+			[
+				"contex",
+				"context\tstatement"
+			],
+			[
+				"template",
+				"template_name"
+			],
+			[
+				"url",
+				"url\turl"
+			],
+			[
+				"all",
+				"all_count"
+			],
+			[
+				"allpa",
+				"all_pages_count\tparam"
+			],
+			[
+				"permis",
+				"permission_classes\tstatement"
+			],
+			[
+				"view",
+				"view_name\tparam"
+			],
+			[
+				"Hyper",
+				"HyperlinkedRelatedField\tclass"
+			],
+			[
+				"Hyperl",
+				"HyperlinkedModelSerializer\tclass"
+			],
+			[
+				"gener",
+				"generic"
+			],
+			[
+				"publisher_lsit",
+				"publisher_list_page"
+			],
+			[
+				"HTR",
+				"HttpResponse\tclass"
+			],
+			[
+				"Form",
+				"Form\tForm"
+			],
+			[
+				"allp",
+				"all_pages_html\tstatement"
+			],
+			[
+				"requ",
+				"request"
+			],
+			[
+				"personf",
+				"person_form\tstatement"
+			],
+			[
+				"code",
+				"Codecademy"
+			],
+			[
+				"score",
+				"scores"
+			],
+			[
+				"pri",
+				"print_grades"
+			],
+			[
+				"find",
+				"find_all"
+			],
+			[
+				"bs",
+				"BeautifulSoup"
+			],
+			[
+				"bea",
+				"BeautifulSoup"
+			],
+			[
+				"py",
+				"pyhton"
+			],
+			[
+				"Bea",
+				"BeautifulSoup"
+			],
+			[
+				"bu",
+				"Beautiful"
+			],
+			[
+				"req",
+				"Requests"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "from cbv_dashboard.models import Book\nfrom cbv_dashboard.views import BookDetail\nBookDetail.as_view()\n",
+			"settings":
+			{
+				"buffer_size": 102,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/Python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Python2.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Python2.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/User/Python2.sublime-build",
+				"Syntax Check"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 81.0,
+		"last_filter": "ssdjan",
+		"selected_items":
+		[
+			[
+				"ssdjan",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"p instal",
+				"Package Control: Install Package"
+			],
+			[
+				"pac list",
+				"Package Control: List Packages"
+			],
+			[
+				"shel",
+				"Django: Shell"
+			],
+			[
+				"django shel",
+				"Django: Shell"
+			],
+			[
+				"sni input",
+				"Snippet: HTML - Input:submit"
+			],
+			[
+				"ssjango",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"ss html",
+				"Set Syntax: HTML"
+			],
+			[
+				"snippet ",
+				"Snippet: Form"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"sshtml",
+				"Set Syntax: HTML"
+			],
+			[
+				"prefer",
+				"Preferences: Settings"
+			],
+			[
+				"pcints",
+				"Package Control: Install Package"
+			],
+			[
+				"pcremo",
+				"Package Control: Remove Package"
+			],
+			[
+				"color",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"drus",
+				"Django: Run Server"
+			],
+			[
+				"pack upgra",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"drs",
+				"Django: Run Server"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings"
+			],
+			[
+				"Package Control:updg",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Packages"
+			],
+			[
+				"packag upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"djangoshel",
+				"Django: Shell"
+			],
+			[
+				"sspy",
+				"Set Syntax: Python"
+			],
+			[
+				"wrap",
+				"Word Wrap: Toggle"
+			],
+			[
+				"prosav",
+				"Project: Save As"
+			],
+			[
+				"terminal",
+				"Terminal: Open"
+			],
+			[
+				"keybind user",
+				"Preferences: Terminal Key Bindings – User"
+			],
+			[
+				"setting",
+				"Preferences: Settings"
+			],
+			[
+				"set syn djan",
+				"Set Syntax: Python (Django)"
+			],
+			[
+				"pce",
+				"Package Control: Enable Package"
+			],
+			[
+				"p c e",
+				"Package Control: Enable Package"
+			],
+			[
+				"p c d",
+				"Package Control: Disable Package"
+			],
+			[
+				"p e",
+				"Package Control: Enable Package"
+			],
+			[
+				"package control",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"p c en",
+				"Package Control: Enable Package"
+			],
+			[
+				"s s py",
+				"Set Syntax: Python"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package disk",
+				"Package Control: Disable Package"
+			],
+			[
+				"django make",
+				"Django: Make Migration"
+			],
+			[
+				"django settin",
+				"Django: Set Project Interpreter"
+			],
+			[
+				"django run",
+				"Django: Run Server"
+			],
+			[
+				"url",
+				"Open URL"
+			],
+			[
+				"runserv",
+				"Django: Run Server"
+			],
+			[
+				"pc int",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: html"
+			],
+			[
+				"keybi",
+				"Preferences: Key Bindings"
+			],
+			[
+				"keybind",
+				"Preferences: Key Bindings"
+			],
+			[
+				"folder",
+				"Code Folding: Fold Tag Attributes"
+			],
+			[
+				"omnipri",
+				"Preferences: OmniMarkupPreviewer Settings – User"
+			],
+			[
+				"case",
+				"Convert Case: Lower Case"
+			],
+			[
+				"indent",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"markdownedi",
+				"MarkdownEditing: Markdown Lint"
+			],
+			[
+				"keyb",
+				"Preferences: Key Bindings"
+			],
+			[
+				"markdown setting",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"build",
+				"Build: Cancel"
+			],
+			[
+				"brow",
+				"Preferences: Browse Packages"
+			],
+			[
+				"mark setting",
+				"Preferences: OmniMarkupPreviewer Settings – User"
+			],
+			[
+				"fold",
+				"Code Folding: Unfold All"
+			],
+			[
+				"markd setting",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"new link",
+				"Snippet: Markdown Hyperlink"
+			],
+			[
+				"new ima",
+				"MarkdownEditing: New Inline Image"
+			],
+			[
+				"omni setting",
+				"Preferences: OmniMarkupPreviewer Settings – Default"
+			],
+			[
+				"markdown seting",
+				"Preferences: MarkdownEditing Settings – Default"
+			],
+			[
+				"omni",
+				"OmniMarkupPreviewer: Preview Current Markup in Browser"
+			],
+			[
+				"markdown",
+				"MarkdownEditing: New Image"
+			],
+			[
+				"pref s",
+				"Preferences: Settings"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"convertto",
+				"ConvertToUTF8: Reload with Encoding"
+			],
+			[
+				"utf8",
+				"ConvertToUTF8: Reload with Encoding"
+			]
+		],
+		"width": 488.0
+	},
+	"console":
+	{
+		"height": 195.0,
+		"history":
+		[
+			"python manage.py runserver",
+			"view.run_command('replace_json') ",
+			"view.run_command('replaceSSJson') ",
+			"view.run_command('replace_s_s_json')",
+			"view.run_command('replacessjson')",
+			"view.run_command('replaceSSJson')",
+			"view.runcommand('replaceSSJson')"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/cbv_dashboard",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/cbv_dashboard/migrations",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/cbv_dashboard/templates",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/cbv_dashboard/templates/dashboard"
+	],
+	"file_history":
+	[
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/mysite/urls.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/cbv_dashboard/views.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/books/models.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/cbv_dashboard/models.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/mysite/settings.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/books/admin.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/cbv_dashboard/admin.py",
+		"/E/share/c.py",
+		"/E/share/copy.py",
+		"/D/Python/Python35-32/lib/shutil.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/cbv_dashboard/templates/dashboard/book_detail.html",
+		"/E/virtualenv/djmod/src/blog/models.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/cbv_dashboard/templates/dashboard",
+		"/D/wgf/My Documents/GitHub/djcbv/src/djcbv/urls.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/app_cache/urls.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/app_generic_view/create-view.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/app_generic_view/views.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/app_generic_view/delete-view.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/app_generic_view/list-view.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/app_generic_view/detail-view.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/app_generic_view/search-book.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/app_generic_view/urls.py",
+		"/D/Python/Python35-32/lib/site-packages/django/db/models/query_utils.py",
+		"/E/share/del/1.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/app_generic_view/update-view.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/mypage.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/app_generic_view/forms.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/app_restFramework/models.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/books/forms.py",
+		"/D/Python/Python35-32/lib/site-packages/django/conf/urls/__init__.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/app_restFramework/views.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/app_ajax_index.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/app_ajax/views.py",
+		"/D/Python/Python35-32/lib/site-packages/django/views/generic/__init__.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/myformset/tests.py",
+		"/E/share/del/admintest2/admintest/settings.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/contact_form.html",
+		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/Django Manage Commands/DjangoCommands.sublime-settings",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/polls/test.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/myformset/views.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templatetags/manage_articles.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/contact_form.html.bak2",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/publisher_list_page.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/polls/models.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/paging/views.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/paging/html_helper.py",
+		"/E/Tutorial/Programming/Python/PythonProject/singleton/decorator_singleton.py",
+		"/E/Downloads/del/del/t4.py",
+		"/D/wgf/desktop/paging_host.sql",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/app_restFramework/serializers.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/app_restFramework/myView.py",
+		"/D/Python/Python35-32/lib/site-packages/rest_framework/relations.py",
+		"/D/Program Files/AutoHotKey/myahk/hotkey.ahk",
+		"/D/Python/Python35-32/lib/site-packages/rest_framework/serializers.py",
+		"/E/share/del/py1/testapp/testapp/settings.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/app_restFramework/permissions.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/app_cache/views.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/about.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/books/migrations/0001_initial.py",
+		"/D/Python/Python35-32/lib/site-packages/rest_framework/views.py",
+		"/D/Python/Python35-32/lib/site-packages/django/views/generic/list.py",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/paging/models.py",
+		"/D/Python/Python35-32/lib/site-packages/django/views/generic/base.py",
+		"/E/Downloads/index.html",
+		"/E/Downloads/del/myform.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/readme.md",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/manage.py",
+		"/D/wgf/My Documents/PycharmProjects/django_test/djcode/mysite/templates/current_datetime.html",
+		"/D/wgf/My Documents/PycharmProjects/django_test/djcode/mysite/templates/mytemplate.html",
+		"/E/Downloads/tf00000005.xlsx",
+		"/D/wgf/My Documents/GitHub/testform/templates/showform.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/style.html",
+		"/E/Downloads/1-160305151246/csstable/simpletable/simpletable/index.html",
+		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/Terminal/Terminal.sublime-settings",
+		"/D/Python/Python35-32/lib/site-packages/django/forms/__init__.py",
+		"/D/Python/Python35-32/lib/site-packages/django/forms/forms.py",
+		"/D/Python/Python35-32/lib/site-packages/django/db/models/base.py",
+		"/D/Python/Python35-32/lib/site-packages/django/http/__init__.py",
+		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/E/Tutorial/Programming/Python/Video/for.sublime-snippet",
+		"/C/Users/Administrator/AppData/Local/Temp/_tc/Snippets/for.sublime-snippet",
+		"/D/wgf/My Documents/Dropbox/OneNote/dictionary.txt",
+		"/D/Python/Python35-32/lib/site-packages/django/utils/safestring.py",
+		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/paging/common.py",
+		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/pindex.html",
+		"/D/wgf/My Documents/GitHub/DjangoTest/mysite/templates/search_results.html",
+		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/D/wgf/My Documents/Dropbox/Programming_Note/Python/The Definitive Guide to Django 2nd Edition.md",
+		"/D/wgf/My Documents/Dropbox/Programming_Note/Python/Python_Foundation.md",
+		"/D/wgf/My Documents/Dropbox/Programming_Note/Python/1.py",
+		"/D/wgf/My Documents/Dropbox/Programming_Note/Python/DOM.png",
+		"/D/wgf/My Documents/GitHub/testform/testform/settings.py",
+		"/D/xampp/apache/conf/httpd.conf",
+		"/E/testform/testform/settings.py",
+		"/E/testform/testform/wsgi.py",
+		"/D/wgf/My Documents/GitHub/testform/fillit/models.py",
+		"/D/wgf/My Documents/GitHub/testform/fillit/forms.py",
+		"/D/wgf/My Documents/GitHub/testform/fillit/views.py",
+		"/D/wgf/My Documents/GitHub/testform/templates/myform.html",
+		"/D/wgf/My Documents/GitHub/testform/testform/urls.py",
+		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/DjangoCommands/Default.sublime-keymap",
+		"/D/wgf/AppData/Roaming/Sublime Text 3/Packages/MarkdownEditing/README.md",
+		"/E/share/1.md",
+		"/D/wgf/My Documents/GitHub/DjangoTest/sqlTest/msql.py",
+		"/E/share/1.html",
+		"/D/wgf/My Documents/Dropbox/My sync/backup/init_asAdmin.bat",
+		"/E/线路文件/同步文件/018物资管理/待报材料.txt",
+		"/E/Downloads/1.txt",
+		"/E/Downloads/@Go/backup_sumlime.bat",
+		"/E/Downloads/@Go/work.md",
+		"/D/wgf/My Documents/Dropbox/Programming_Note/Python/dictionary.txt",
+		"/D/wgf/My Documents/Dropbox/Programming_Note/Python/DjangoNote.md",
+		"/D/wgf/My Documents/Dropbox/Programming_Note/Python/Python 爬虫学习笔记.md",
+		"/D/wgf/My Documents/Dropbox/Programming_Note/Python/DjangoNote_append.md",
+		"/E/Downloads/@Go/Python1/DjangoNote.md",
+		"/D/wgf/My Documents/Dropbox/Programming_Note/Python/111",
+		"/E/Downloads/@Go/Python1/Python_Foundation.md",
+		"/E/Downloads/@Go/dict1.txt",
+		"/D/wgf/My Documents/PycharmProjects/django_test/djcode/The Definitive Guide to Django 2nd Edition.md",
+		"/E/Downloads/@Go/todo.md",
+		"/E/Downloads/@Go/PythonProject/test/test.py",
+		"/D/wgf/My Documents/PycharmProjects/django_test/djcode/mysite/mysite/views.py",
+		"/D/wgf/My Documents/PycharmProjects/django_test/djcode/mysite/templates/1.py",
+		"/D/wgf/My Documents/PycharmProjects/django_test/djcode/mysite/mysite/settings.py",
+		"/D/wgf/My Documents/PycharmProjects/django_test/djcode/mysite/mysite/urls.py",
+		"/D/wgf/My Documents/PycharmProjects/django_test/djcode/mysite/sh.bat"
+	],
+	"find":
+	{
+		"height": 42.0
+	},
+	"find_in_files":
+	{
+		"height": 111.0,
+		"where_history":
+		[
+			"D:\\wgf\\My Documents\\GitHub\\DjangoTest\\mysite",
+			"D:\\wgf\\My Documents\\GitHub\\DjangoTest\\mysite\\",
+			"D:\\wgf\\My Documents\\GitHub\\DjangoTest\\mysite\\templates",
+			"<open folders>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xday",
+			"\\",
+			"x",
+			"\\",
+			"\\\\",
+			"copyfile",
+			"models",
+			"slug",
+			"TemplateView\n",
+			"^about",
+			"about",
+			"full",
+			"get_full_path",
+			"path",
+			"full",
+			"path",
+			"full",
+			"template",
+			"HttpResponseRedirect\\(\"app_generic",
+			"HttpResponseRedirect\\(\"app_generic_view\"",
+			"HttpResponseRedirect(\"app_generic_view\"",
+			"/app_generic_view",
+			"post_model_update_view",
+			"/app_generic_view/list",
+			"\"app",
+			"edit",
+			"ed",
+			"edit",
+			"detail",
+			"creat",
+			"update",
+			"create",
+			"BookForm",
+			"BookModelForm",
+			"detail",
+			"post_model_detail_view",
+			"namespace",
+			"generi",
+			"detail",
+			"qs",
+			"list",
+			"Listview",
+			"View",
+			"123",
+			"num",
+			"object_list",
+			"post_model_list_view",
+			"app_generic_view",
+			"listview",
+			"-",
+			"ajax_url_to_json",
+			"cached",
+			"host",
+			"clean",
+			"error",
+			"csrf",
+			"crsf",
+			"max",
+			"initial",
+			"error",
+			"ArticleFormSet",
+			"listview",
+			"sd",
+			"filter",
+			"langu",
+			"as_table",
+			"listview",
+			"author",
+			"register",
+			"database",
+			"include",
+			"()",
+			"p_end",
+			"p_start",
+			"end",
+			"start",
+			"self.AllCount",
+			"all_pages_count",
+			"count",
+			"11",
+			"5",
+			"6",
+			"- ",
+			"6",
+			"current",
+			"curerent",
+			"for",
+			"\\(\\d+, ",
+			"` V",
+			"paging",
+			"save",
+			"winmove",
+			"HyperlinkedModelSerializer",
+			"user",
+			"users",
+			"_set",
+			"^",
+			"'",
+			"date",
+			"name",
+			"many",
+			"forf",
+			"track",
+			"user",
+			"book",
+			".py\"",
+			"\\n^ ",
+			"User",
+			"manyto",
+			"ManyToMany",
+			"user",
+			"ser",
+			"time",
+			"apiview",
+			"Listview",
+			"as_view",
+			"PublisherView",
+			"objects",
+			"book",
+			"MyCustomView",
+			"publisher_list_page",
+			"publisher_list_page2",
+			"pas",
+			"contains",
+			"render_to",
+			"context",
+			" ",
+			"fav"
+		],
+		"highlight": true,
+		"in_selection": true,
+		"preserve_case": true,
+		"regex": false,
+		"replace_history":
+		[
+			"\\\\",
+			"\\\\\\\\",
+			"HttpResponseRedirect(\"/app_generic",
+			"HttpResponseRedirect(\"/app_generic_view\"",
+			"app_generic_view",
+			"/app_generic_view",
+			"_",
+			"\\(",
+			"`(HostName,IP) V",
+			"    ",
+			"\"",
+			"",
+			"Chapter",
+			"\\\\\\\\",
+			"'",
+			"e:/",
+			"/",
+			":",
+			"'123'",
+			"999",
+			"PositiveIntegerField(validators=[MaxValueValidator(9999999999)]",
+			"",
+			"\\n",
+			"",
+			"/",
+			"",
+			"*",
+			"\\1 | ",
+			"| Any",
+			"\\n",
+			", ",
+			"",
+			"total",
+			"",
+			"| \\1 |",
+			" | ",
+			"\\nfrom",
+			"</td></tr>",
+			"</td><td>",
+			"<tr><td>",
+			"<td>",
+			"td",
+			"",
+			"  ",
+			"/",
+			"  ",
+			"/#",
+			"  ",
+			"/#",
+			"",
+			"公里",
+			"\\/",
+			"/",
+			"\"",
+			"“”",
+			"response",
+			"est"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								102,
+								102
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": ".",
+									"selector": "source.python - string - comment - constant.numeric"
+								},
+								{
+									"characters": ".",
+									"selector": "source.python - string - constant.numeric"
+								}
+							],
+							"default_dir": "D:\\wgf\\My Documents\\GitHub\\DjangoTest\\mysite",
+							"syntax": "Packages/Djaneiro/Syntaxes/Python Django.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 78.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 34.0
+	},
+	"input":
+	{
+		"height": 41.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 142.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mde":
+	{
+		"height": 160.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "mysite.sublime-project",
+	"replace":
+	{
+		"height": 78.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"myurl",
+				"mysite\\urls.py"
+			],
+			[
+				"url",
+				"mysite\\urls.py"
+			],
+			[
+				"admin",
+				"books\\admin.py"
+			],
+			[
+				"setting",
+				"mysite\\settings.py"
+			],
+			[
+				"mysiteurl",
+				"mysite\\urls.py"
+			],
+			[
+				"urls.py",
+				"app_cache\\urls.py"
+			],
+			[
+				"lsivie",
+				"templates\\app_generic_view\\list-view.html"
+			],
+			[
+				"view",
+				"app_generic_view\\views.py"
+			],
+			[
+				"",
+				"templates\\mypage.html"
+			],
+			[
+				"meth",
+				"templates\\mypage.html"
+			],
+			[
+				"dele",
+				"templates\\app_generic_view\\delete-view.html"
+			],
+			[
+				"update",
+				"templates\\app_generic_view\\update-view.html"
+			],
+			[
+				"mysurl",
+				"mysite\\urls.py"
+			],
+			[
+				"vieurl",
+				"app_generic_view\\urls.py"
+			],
+			[
+				"vie",
+				"app_restFramework\\views.py"
+			],
+			[
+				"murl",
+				"mysite\\urls.py"
+			],
+			[
+				"ajax",
+				"templates\\app_ajax_index.html"
+			],
+			[
+				"myurls",
+				"mysite\\urls.py"
+			],
+			[
+				"manage_articles",
+				"templatetags\\manage_articles.html"
+			],
+			[
+				"publisher_list_page",
+				"templates\\publisher_list_page.html"
+			],
+			[
+				"seti",
+				"mysite\\settings.py"
+			],
+			[
+				"murls",
+				"mysite\\urls.py"
+			],
+			[
+				"model",
+				"app_restFramework\\models.py"
+			],
+			[
+				"mysiurl",
+				"mysite\\urls.py"
+			],
+			[
+				"vi",
+				"app_restFramework\\views.py"
+			],
+			[
+				"seri",
+				"app_restFramework\\serializers.py"
+			],
+			[
+				"mode",
+				"app_restFramework\\models.py"
+			],
+			[
+				"html",
+				"templates\\about.html"
+			],
+			[
+				"list",
+				"templates\\publisher_list_page.html"
+			],
+			[
+				"li",
+				"templates\\publisher_list_page.html"
+			],
+			[
+				"listp",
+				"templates\\publisher_list_page.html"
+			],
+			[
+				"publis",
+				"templates\\publisher_list_page.html"
+			],
+			[
+				"wo",
+				"E:\\Downloads\\Work\\work.md"
+			],
+			[
+				"to",
+				"D:\\wgf\\My Documents\\Dropbox\\OneNote\\todo.md"
+			],
+			[
+				"todo",
+				"D:\\wgf\\My Documents\\Dropbox\\OneNote\\todo.md"
+			],
+			[
+				"set",
+				"urlTest\\settings.py"
+			],
+			[
+				"mod",
+				"D:\\wgf\\My Documents\\Dropbox\\Programming_Note\\Python\\The Definitive Guide to Django 2nd Edition.md"
+			],
+			[
+				"urlu",
+				"urlTest\\urls.py"
+			],
+			[
+				"inde",
+				"templates\\pindex.html"
+			],
+			[
+				"ine",
+				"templates\\pindex.html"
+			],
+			[
+				"form",
+				"templates\\contact_form.html"
+			],
+			[
+				"in",
+				"templates\\pindex.html"
+			],
+			[
+				"rl",
+				"templates\\search_results.html"
+			],
+			[
+				"pin",
+				"templates\\pindex.html"
+			],
+			[
+				"pien",
+				"templates\\pindex.html"
+			],
+			[
+				"show",
+				"templates\\showform.html"
+			],
+			[
+				"showfo",
+				"templates\\showform.html"
+			],
+			[
+				"myfor",
+				"templates\\myform.html"
+			],
+			[
+				"myfo",
+				"templates\\myform.html"
+			],
+			[
+				"my",
+				"templates\\myform.html"
+			],
+			[
+				"showm",
+				"templates\\showform.html"
+			],
+			[
+				"sett",
+				"testform\\settings.py"
+			],
+			[
+				"myform",
+				"templates\\myform.html"
+			],
+			[
+				"forms",
+				"fillit\\forms.py"
+			],
+			[
+				"moel",
+				"fillit\\models.py"
+			],
+			[
+				"cont",
+				"D:\\wgf\\My Documents\\Dropbox\\OneNote\\todo.md"
+			],
+			[
+				"tdoo",
+				"D:\\wgf\\My Documents\\Dropbox\\OneNote\\todo.md"
+			],
+			[
+				"dic",
+				"D:\\wgf\\My Documents\\Dropbox\\OneNote\\dictionary.txt"
+			],
+			[
+				"dict",
+				"D:\\wgf\\My Documents\\Dropbox\\OneNote\\dictionary.txt"
+			],
+			[
+				"wor",
+				"E:\\Downloads\\Work\\work.md"
+			],
+			[
+				"de",
+				"D:\\wgf\\My Documents\\Dropbox\\My sync\\del"
+			],
+			[
+				"work",
+				"E:\\Downloads\\Work\\work.md"
+			],
+			[
+				"del",
+				"D:\\wgf\\My Documents\\Dropbox\\My sync\\del"
+			],
+			[
+				"fou",
+				"E:\\Downloads\\@Go\\Python1\\Python_Foundation.md"
+			],
+			[
+				"f",
+				"E:\\Downloads\\@Go\\Python1\\Python_Foundation.md"
+			],
+			[
+				"di",
+				"E:\\Downloads\\@Go\\dict1.txt"
+			],
+			[
+				"fuo",
+				"E:\\Downloads\\@Go\\Python1\\Python_Foundation.md"
+			],
+			[
+				"tes",
+				"test\\test.py"
+			],
+			[
+				"foun",
+				"E:\\Downloads\\@Go\\Python1\\Python_Foundation.md"
+			],
+			[
+				"py",
+				"test\\test.py"
+			],
+			[
+				"word",
+				"E:\\Downloads\\@Go\\work.md"
+			],
+			[
+				"curren",
+				"mysite\\templates\\current_datetime.html"
+			],
+			[
+				"djan",
+				"D:\\wgf\\My Documents\\PycharmProjects\\django_test\\djcode\\The Definitive Guide to Django 2nd Edition.md"
+			],
+			[
+				"found",
+				"E:\\Downloads\\@Go\\Python1\\Python_Foundation.md"
+			],
+			[
+				"m.py",
+				"mysite\\templates\\m.py"
+			],
+			[
+				"viwe",
+				"mysite\\mysite\\views.py"
+			],
+			[
+				"m.",
+				"mysite\\templates\\m.py"
+			],
+			[
+				"v",
+				"mysite\\mysite\\views.py"
+			],
+			[
+				"daj",
+				"D:\\wgf\\My Documents\\PycharmProjects\\django_test\\djcode\\The Definitive Guide to Django 2nd Edition.md"
+			],
+			[
+				"id",
+				"mysite\\db.sqlite3"
+			],
+			[
+				"yp",
+				"E:\\Downloads\\@Go\\Python1\\Python_Foundation.md"
+			],
+			[
+				"1",
+				"1"
+			],
+			[
+				"ett",
+				"mysite\\mysite\\settings.py"
+			],
+			[
+				"settings",
+				"mysite\\mysite\\settings.py"
+			],
+			[
+				"viwes",
+				"djcode\\mysite\\mysite\\views.py"
+			],
+			[
+				"mysite/url",
+				"djcode\\mysite\\mysite\\urls.py"
+			],
+			[
+				"t",
+				"test\\test.py"
+			],
+			[
+				"te",
+				"test\\test.py"
+			],
+			[
+				"pyt",
+				"E:\\Downloads\\@Go\\Python1\\Python_Foundation.md"
+			],
+			[
+				"y",
+				"test\\test.py"
+			],
+			[
+				"d",
+				"E:\\Downloads\\@Go\\dict1.txt"
+			],
+			[
+				"tse",
+				"test\\test.py"
+			],
+			[
+				"md",
+				"djcode\\mysite\\db.sqlite3"
+			],
+			[
+				"n",
+				"E:\\Downloads\\@Go\\Python1\\note.md"
+			],
+			[
+				"not",
+				"E:\\Downloads\\@Go\\Python1\\note.md"
+			],
+			[
+				"no",
+				"E:\\Downloads\\@Go\\Python1\\note.md"
+			],
+			[
+				"note",
+				"E:\\Downloads\\@Go\\Python1\\note.md"
+			],
+			[
+				"defi",
+				"The Definitive Guide to Django 2nd Edition.md"
+			],
+			[
+				"urls",
+				"mysite\\mysite\\urls.py"
+			],
+			[
+				"2",
+				"E:\\Downloads\\del\\2.py"
+			],
+			[
+				"tod",
+				"E:\\Downloads\\@Go\\todo1.md"
+			],
+			[
+				"re",
+				"D:\\wgf\\AppData\\Roaming\\Sublime Text 3\\Packages\\MarkdownEditing\\README.md"
+			],
+			[
+				"wro",
+				"E:\\Downloads\\@Go\\work.md"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 200.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

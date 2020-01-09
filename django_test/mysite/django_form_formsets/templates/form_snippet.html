@@ -1,0 +1,29 @@
+{% if form %}
+  <form method='{% if method %}{{ method }}{% else %}POST{% endif %}' action='{% if action %} {{ action }} {% endif %}'>{% csrf_token %} {# {{ form.as_p }} #}
+
+      {% if as_p %}
+        {{ form.as_p }}
+      {% else %}
+        {{ form.as_ul}}
+      {% endif %}
+      <input type='submit' value='Submit' />
+  </form>
+
+
+{% endif %}
+<!--     {% if form.errors %}
+  {% for key, value in form.errors.items %}
+    <p> {{ key }}: {{ value.as_text }}</p>
+  {% endfor %} 
+{% endif %}
+
+{{ form.non_field_errors}}
+<p>{{ form.user }}</p>
+<p>{{ form.title}}</p>
+
+<p {% if form.slug.errors %} class='some-field-error' {% endif %}>
+    <label for="{{ form.slug.id_for_label }}"> {{ form.slug.label }}</label>
+    {{ form.slug }} {% if form.slug.errors %}
+    <div style="color:red;">Errors with slug are: {{ form.slug.errors.as_text}}</div>
+    {% endif %}
+</p> -->

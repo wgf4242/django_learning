@@ -1,0 +1,25 @@
+<form method="post" action="">
+    {{ formset.management_form }}
+    <table>
+        {% for form in formset %}
+        {{ form }}
+        {% endfor %}
+    </table>
+</form>
+<hr>
+<h1>简写formset</h1>
+{{ formset }}
+<hr>
+<h1>Manually rendered can_delete and can_order</h1>
+<form method="post" action="">
+    {{ formset.management_form }}
+    {% for form in formset %}
+        <ul>
+            <li>{{ form.title }}</li>
+            <li>{{ form.pub_date }}</li>
+            {% if formset.can_delete %}
+                <li>{{ form.DELETE }}</li>
+            {% endif %}
+        </ul>
+    {% endfor %}
+</form>

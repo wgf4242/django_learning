@@ -1,0 +1,9 @@
+**/Include/
+**/Lib/
+**/Scripts/
+**/tcl/
+**/pip-selfcheck.json
+**/.idea/
+**/__pycache__/
+**/migrations/
+**/db.sqlite3

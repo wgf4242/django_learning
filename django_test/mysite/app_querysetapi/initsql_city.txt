@@ -1,0 +1,85 @@
+1	2	3
+"okyo"	28	36923000
+"hanghai"	13	34000000
+"akarta"	19	30000000
+"eoul"	21	25514000
+"uangzhou"	13	25000000
+"eijing"	13	24900000
+"arachi"	22	24300000
+"henzhen"	13	23300000
+"elhi"	25	21753486
+"Mexico" City	24	21339781
+"Lagos"	9	21000000
+"São" Paulo	1	20935204
+"Mumbai"	25	20748395
+"New" York City	20	20092883
+"Osaka"	28	19342000
+"Wuhan"	13	19000000
+"Chengdu"	13	18100000
+"Dhaka"	4	17151925
+"Chongqing"	13	17000000
+"Tianjin"	13	15400000
+"Kolkata"	25	14617882
+"Tehran"	11	14595904
+"Istanbul"	2	14377018
+"London"	26	14031830
+"Hangzhou"	13	13400000
+"Los" Angeles	20	13262220
+"Buenos" Aires	8	13074000
+"Xi"'an	13	12900000
+"Paris"	6	12405426
+"Changzhou"	13	12400000
+"Shantou"	13	12000000
+"Rio" de Janeiro	1	11973505
+"Manila"	18	11855975
+"Nanjing"	13	11700000
+"Rhine"-Ruhr	16	11470000
+"Jinan"	13	11000000
+"Bangalore"	25	10576167
+"Harbin"	13	10500000
+"Lima"	7	9886647
+"Zhengzhou"	13	9700000
+"Qingdao"	13	9600000
+"Chicago"	20	9554598
+"Nagoya"	28	9107000
+"Chennai"	25	8917749
+"Bangkok"	15	8305218
+"Bogotá"	27	7878783
+"Hyderabad"	25	7749334
+"Shenyang"	13	7700000
+"Wenzhou"	13	7600000
+"Nanchang"	13	7400000
+"Hong" Kong	13	7298600
+"Taipei"	29	7045488
+"Dallas–Fort" Worth	20	6954330
+"Santiago"	14	6683852
+"Luanda"	23	6542944
+"Houston"	20	6490180
+"Madrid"	17	6378297
+"Ahmedabad"	25	6352254
+"Toronto"	5	6055724
+"Philadelphia"	20	6051170
+"Washington" D.C.	20	6033737
+"Miami"	20	5929819
+"Belo" Horizonte	1	5767414
+"Atlanta"	20	5614323
+"Singapore"	12	5535000
+"Barcelona"	17	5445616
+"Munich"	16	5203738
+"Stuttgart"	16	5200000
+"Ankara"	2	5150072
+"Hamburg"	16	5100000
+"Pune"	25	5049968
+"Berlin"	16	5005216
+"Guadalajara"	24	4796050
+"Boston"	20	4732161
+"Sydney"	10	5000500
+"San" Francisco	20	4594060
+"Surat"	25	4585367
+"Phoenix"	20	4489109
+"Monterrey"	24	4477614
+"Inland" Empire	20	4441890
+"Rome"	3	4321244
+"Detroit"	20	4296611
+"Milan"	3	4267946
+"Melbourne"	10	4650000

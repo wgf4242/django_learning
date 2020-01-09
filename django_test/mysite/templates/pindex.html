@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+	<style type="text/css">
+		body{
+			font-size: .85em;
+			color: #232323;
+			background-color: #fff;
+		}
+
+		#Pageing a{ background-color: #008844; 
+			border: 1px solid White;
+			text-decoration: none; color: White;
+			padding: .1em .6em .2em .6em
+		}
+		#Pageing a.selected{background-color: #AA7700;}
+	</style>
+</head>
+
+{# {% include "style.html" %} #}
+<body>
+	<h1>主机信息</h1>
+	<div id="Pageing">
+	<table border="1">
+		{% for item in data %}
+			<tr>
+				<td>{{ item.HostName}}</td>
+				<td>{{ item.IP}}</td>
+			</tr>
+
+		{% endfor %}
+	</table>
+	<div>总条数 {{ data.count }} </div>
+
+	<div>	{{ pages }}</div>
+</div>
+
+</body>
+</html>

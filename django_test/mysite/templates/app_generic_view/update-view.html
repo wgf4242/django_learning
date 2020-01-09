@@ -1,0 +1,12 @@
+<h1>Update {{form.instance.title}}</h1>
+
+{{ form.instance.title }}
+{% if form.errors %}
+	{{ form.errors }}
+{% endif %}
+
+<form method="post" action="">
+	{% csrf_token %}
+	{{ form.as_p }}
+	<input type="submit" value="Update">
+</form>

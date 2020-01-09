@@ -1,0 +1,15 @@
+**/migrations
+**/.idea/
+**/__pycache__/
+**/.DS_Store
+**/Include/
+**/Lib/
+**/Scripts/
+**/tcl/
+**/pip-selfcheck.json
+**/venv
+
+# webpack, nodejs
+**/build
+**/dist
+**/node_modules

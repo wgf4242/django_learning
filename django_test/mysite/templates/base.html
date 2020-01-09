@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>{% block title %}{% endblock %}</title>
+	<!-- Bootstrap -->
+	<!-- Latest compiled and minified CSS -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+
+	<!-- Optional theme -->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+
+	{% block styles %}
+		
+	{% endblock styles %}
+</head>
+<body>
+	<h1>My helpful timestamp site</h1>
+
+	{% if messages %}
+	<ul class="messages">
+	    {% for message in messages %}
+	    <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>
+	        {% if message.level == DEFAULT_MESSAGE_LEVELS.ERROR %}Important: {% endif %}
+	        {{ message }}
+	    </li>
+	    {% endfor %}
+	</ul>
+	{% endif %}
+
+	
+	{% block content %}
+	{% endblock %}
+	
+	{% block footer %}
+	<hr>
+	<p>Thanks for visiting my site.</p>
+	{% endblock %}
+
+	<!-- jQuery (necessary for Bootstrap's JavaSCript plugins) -->
+	<script type="text/javascript" src="http://code.jquery.com/jquery-3.2.0.min.js"></script>
+	<!-- jQuery Color for Backgroud Animation -->
+	<script type="text/javascript" src="http://code.jquery.com/color/jquery.color-2.1.2.min.js"></script>
+
+	<script type="text/javascript">
+	$(document).ready(function(){
+		{% block jquery %}
+		{% endblock jquery %}
+	})
+	</script>
+
+	<!-- Latest compiled and minified JavaScript -->
+	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+</body>
+</html>

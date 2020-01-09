@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title></title>
+</head>
+<body>
+	<p>Page publisher_list.html </p>
+	{% for pub in publisher_list %}
+		<p>{{ pub.name }}</p>
+		<p>{{ pub.title }}</p>
+	{% endfor %}	
+
+</body>
+</html>

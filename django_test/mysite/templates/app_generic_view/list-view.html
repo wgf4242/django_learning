@@ -1,0 +1,20 @@
+{% if messages %}
+<ul class="messages">
+    {% for message in messages %}
+    <li{% if message.tags %} class="{{ message.tags }}"{% endif %}>{{ message }}</li>
+    {% endfor %}
+</ul>
+{% endif %}
+
+{% include "app_generic_view/search-book.html" %}
+
+{% for object in object_list %}
+<li>
+	<a href="/app_generic_view/{{ object.id }}">{{ object.title }}</a>
+	{# <a href="{% url 'generic_view:detail' id=object.id %}">{{ object.title }}</a> #}
+	{# <a href="{{ object.get_absolute_url }}">{{ object.title }}</a> #}
+</li>
+{% endfor %}
+
+{{ num }} <br>
+{{ array_list }}

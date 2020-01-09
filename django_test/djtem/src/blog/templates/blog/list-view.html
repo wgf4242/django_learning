@@ -1,0 +1,30 @@
+{% extends "blog/base.html" %}
+
+{% block title %}
+	Blog List View | {{ block.super}}
+{% endblock title %}
+
+{% block content %}
+
+
+	<h1>Hello World</h1>
+	<hr>
+
+	{% for object in object_list %}
+		{% include "blog/components/object-detail.html" with object=object list_view=True %}
+	<!-- <li>
+	    <br>
+
+	    <a href='{% url "blog:detail" id=object.id %}'>{{ object.title }}</a>
+	    <a href='{{ object.get_absolute_url }}'>{{ object.title }}</a>
+	</li> -->
+	{% endfor %}
+
+<!-- 
+	{{ array_list }}
+
+	{{ num }}
+
+	{{ boolean_value }} -->
+
+{% endblock content %}
