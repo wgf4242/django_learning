@@ -30,3 +30,7 @@ urlpatterns = [
     path('login/', views.UserLoginApiView.as_view()),
     path('admin/', admin.site.urls),
 ]
+
+# import serializer_api
+from serializer_api.urls import urlpatterns as urlpatterns_serializer_api
+urlpatterns += urlpatterns_serializer_api
