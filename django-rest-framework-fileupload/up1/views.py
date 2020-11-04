@@ -28,6 +28,14 @@ class FileUploadView(APIView):
         return Response(status=204)
 
 
+class FileUploadDefaultView(APIView):
+
+    def post(self, request, filename=None, format=None):
+        file_obj = request.FILES['file']
+        # do some stuff with uploaded file
+        return Response(status=204)
+
+
 class ExampleView(APIView):
     """
     A view that can accept POST requests with JSON content.

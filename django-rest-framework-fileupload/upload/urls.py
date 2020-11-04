@@ -16,6 +16,7 @@ Including another URLconf
 from django.conf.urls.static import static
 from django.contrib import admin
 from django.urls import path, include
+from django.views.generic import TemplateView
 from rest_framework.routers import DefaultRouter
 
 from apps.mdself.views import CategoryViewSet
@@ -23,10 +24,13 @@ from upload import settings
 from urltest.views import ImageViewSet
 
 router = DefaultRouter()
-router.register(r'imgs', ImageViewSet, base_name="img")
-router.register(r'categories', CategoryViewSet, base_name="category")
+router.register(r'imgs', ImageViewSet)
+# router.register(r'imgs', ImageViewSet, base_name="img")
+router.register(r'categories', CategoryViewSet)
+# router.register(r'categories', CategoryViewSet, base_name="category")
 
 urlpatterns = [
+    path('', TemplateView.as_view(template_name='index.html')),
     path(r'api/', include(router.urls)),
     path('admin/', admin.site.urls),
     path('file/', include('up1.urls')),

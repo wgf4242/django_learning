@@ -1,0 +1,42 @@
+<script src="https://cdn.staticfile.org/axios/0.21.0/axios.min.js"></script>
+
+<h1>Index Page</h1>
+<hr>
+<input type="file" id="file">
+<button onclick="onClickUpload1()">axios upload1</button>
+<button onclick="onClickUpload2()">axios upload2</button>
+<button onclick="onClickUpload3()">axios upload3</button>
+
+
+<script>
+    const onClickUpload1 = () => {
+        const file = document.getElementById('file').files
+        let formData = new FormData();
+        formData.append("file", file);
+        let config = {headers: {'Content-Type': 'multipart/form-data'}};
+        axios.post('http://127.0.0.1:8000/file/upload/', formData, config).then(e => {
+            console.log(e)
+        });
+    }
+
+    const onClickUpload2 = () => {
+        const file = document.getElementById('file').files[0]
+        let formData = new FormData();
+        formData.append("file", file);
+        let config = {headers: {'Content-Type': 'multipart/form-data'}};
+        axios.post('http://127.0.0.1:8000/file/upload2/', formData, config).then(e => {
+            console.log(e)
+        });
+    }
+
+    const onClickUpload3 = () => {
+        const file = document.getElementById('file').files[0]
+        let formData = new FormData();
+        formData.append("file", file);
+        let config = {headers: {'Content-Type': 'multipart/form-data'}};
+        axios.post('http://127.0.0.1:8000/file/upload3/', formData, config).then(e => {
+            console.log(e)
+        });
+    }
+
+</script>
