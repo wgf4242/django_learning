@@ -1,0 +1,16 @@
+[
+  {
+    "model": "interview.person",
+    "pk": 1,
+    "fields": {
+      "name": "n1"
+    }
+  },
+  {
+    "model": "interview.person",
+    "pk": 2,
+    "fields": {
+      "name": "n2"
+    }
+  }
+]
